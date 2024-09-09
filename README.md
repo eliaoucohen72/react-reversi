@@ -1,7 +1,7 @@
 # Reversi Game
 
 ## Description
-A **Reversi** game built using **React**. This is a two-player game where each player tries to flip their opponent's pieces by capturing them between two of their own.
+A **Reversi** game built using **React** and **Vite.js**. This is a two-player game where each player tries to flip their opponent's pieces by capturing them between two of their own.
 
 ## Features
 - Two-player mode
